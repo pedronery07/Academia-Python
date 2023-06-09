@@ -1,0 +1,7 @@
+Com estudos sobre os triângulos retângulos, você descobriu que é possível utilizá-los para calcular o tamanho de objetos altos, como prédios, postes, árvores e afins.
+Seria trabalhoso subir até o topo do prédio para medir sua altura. 
+Desta forma, em buscas na internet, você descobriu que é possível utilizar o comprimento da sombra formada pelo prédio e o ângulo de elevação do sol para calcular a altura do prédio.
+Desta forma, faça uma função que recebe o comprimento (metros) da sombra formada pelo prédio e o ângulo (graus) de elevação do sol e retorne a altura (metros) do prédio.
+Para descobrir a altura do prédio, podemos utilizar a seguinte fórmula:
+tan(θ)= cateto_adjacente/catetooposto 
+O nome da sua função deve ser altura_do_predio
